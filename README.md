@@ -4,7 +4,7 @@
 
 ### Task
 
-You are given a [dataset](app/adult.csv) (taken from kaggle) of people.
+You are given a [dataset](data/adult.csv) (taken from kaggle) of people.
 Your task is described [here](app/main.ipynb) step-by-step.
 
 Over-all notes:
